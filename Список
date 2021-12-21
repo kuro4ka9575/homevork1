@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Списк покупок</title>
+</head>
+<body>Список покупок к Новому году
+    <ol start="1">
+        <li>Продукты на стол</li>
+        <ul>
+            <li>на оливье</li>
+             <dl>
+                <dt>майонез</dt>
+                <dt>колбаса</dt>
+                <dt>горошек</dt>
+                <dt>яйца</dt>
+                <dt>огурцы</dt>
+                <dt>зелень</dt>
+            </dl>
+            <li>на шубу</li>
+            <dl>
+                <dt>буряк</dt>
+                <dt>селедка</dt>
+                <dt>майонез</dt>
+            </dl>
+        </ul>
+        <li>Подарки</li>
+        <ol>
+                <li>маме</li>
+                <li>папе</li>
+                <li>сестре</li>
+                <li>брату</li>
+                <li>мужу</li>
+                <li>себе любимой</li>
+                </ol>
+        <li>Елка и игрушки</li><ul>
+
+        </ol>
+                <li>елка</li>
+                <li>игрушки</li>
+                <li>звезда</li>
+        </ol>
+</body>
+</html>
